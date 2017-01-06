@@ -1,0 +1,7 @@
+[{
+	"url": "/",
+	"template": "./home/index.vm",
+	"renderVar": {
+		"isLogin": true
+	}
+}]

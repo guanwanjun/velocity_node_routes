@@ -1,0 +1,6 @@
+{
+	"template": "./common/head.vm",
+	"renderVar": {
+		"isLogin": true
+	}
+}

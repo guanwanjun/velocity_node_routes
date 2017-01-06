@@ -1,0 +1,6 @@
+{
+	"template": "./common/footer.vm",
+	"renderVar": {
+		"isLogin": true
+	}
+}
